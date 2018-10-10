@@ -7,17 +7,19 @@ Most Like We Will Use These Sets:
 Amazon Phones data Set(EXTREMELY LARGE 400k+): 
 https://data.world/promptcloud/amazon-mobile-phone-reviews
 
+Columns: [Product, Brand, Price, ###Rating, ###Reviews, ###Review Votes(Helpful)]\
+
+
 Amazon Fashion(MID-SIZE 22,000):
 https://data.world/promptcloud/fashion-products-on-amazon-com
+
+Columns: [uniqid, Product, Manufacturer, Price, In Stock, Review Numbers, Questions Answered, ###Rating, Category, OtherProducts, Description, Product Info, Product Description, Other Itmes, Questions and Amswers, ###Customer_Reviews, and Sellers ]
 
 Download the Above Data Sets as CSV files
 ----------------------------------
 
 Data cleaning:
-Remove these entries - (REVIEWERID, ASIN, Name, ____, _____, ____, ____, UNIXREVIEWTIME, DATE)
-
-Keep these entries - (____, ____, ____, HELPFUL, TEXT, OVERALL, SUMMARY, ____, ____)
-
+Keep the Entries in Bold
 ------------------------------------------------------------------------------------------------------
 
 
