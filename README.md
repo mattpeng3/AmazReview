@@ -8,12 +8,14 @@ https://data.world/promptcloud/amazon-mobile-phone-reviews
 
 Amazon Fashion(MID-SIZE 22,000):
 https://data.world/promptcloud/fashion-products-on-amazon-com
+
 ----------------------------------
 
 Data cleaning:
 Remove these entries - (REVIEWERID, ASIN, Name, ____, _____, ____, ____, UNIXREVIEWTIME, DATE)
 
 Keep these entries - (____, ____, ____, HELPFUL, TEXT, OVERALL, SUMMARY, ____, ____)
+
 ------------------------------------------------------------------------------------------------------
 
 
