@@ -1,7 +1,9 @@
 # QuickRev
 Data science analysis project on consumer reviews.
 
-http://jmcauley.ucsd.edu/data/amazon/
+https://data.world/promptcloud/amazon-mobile-phone-reviews
+https://data.world/datafiniti/consumer-reviews-of-amazon-products
+https://data.world/datafiniti/amazon-and-best-buy-electronics
 
 https://docs.google.com/presentation/d/1fTTncKomC2b8sGOlMSwOirXeg1YStq2u-2cQx21PdSE/edit?usp=sharing
 
