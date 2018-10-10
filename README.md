@@ -10,8 +10,10 @@ Amazon Fashion(MID-SIZE 22,000):
 https://data.world/promptcloud/fashion-products-on-amazon-com
 ----------------------------------
 
-Slides for meeting:
-https://docs.google.com/presentation/d/1fTTncKomC2b8sGOlMSwOirXeg1YStq2u-2cQx21PdSE/edit?usp=sharing
+Data cleaning:
+Remove these entries - (REVIEWERID, ASIN, Name, ____, _____, ____, ____, UNIXREVIEWTIME, DATE)
+
+Keep these entries - (____, ____, ____, HELPFUL, TEXT, OVERALL, SUMMARY, ____, ____)
 ------------------------------------------------------------------------------------------------------
 
 
@@ -22,12 +24,8 @@ Electronics data set team - (Conrad, Matt, Alan)
 
 -------------------------------------------------------------------------------
 
-Data cleaning:
-Remove these entries - (REVIEWERID, ASIN, Name, ____, _____, ____, ____, UNIXREVIEWTIME, DATE)
-
-Keep these entries - (____, ____, ____, HELPFUL, TEXT, OVERALL, SUMMARY, ____, ____)
-
---------------------------------------------------
+Slides for meeting:
+https://docs.google.com/presentation/d/1fTTncKomC2b8sGOlMSwOirXeg1YStq2u-2cQx21PdSE/edit?usp=sharing
 
 Extra sets that are smaller:
 
