@@ -2,6 +2,7 @@
 Data science analysis project on consumer reviews.
 
 ---------------------------------
+
 Most Like We Will Use These Sets:
 Amazon Phones data Set(EXTREMELY LARGE 400k+): 
 https://data.world/promptcloud/amazon-mobile-phone-reviews
@@ -9,6 +10,7 @@ https://data.world/promptcloud/amazon-mobile-phone-reviews
 Amazon Fashion(MID-SIZE 22,000):
 https://data.world/promptcloud/fashion-products-on-amazon-com
 
+Download the Above Data Sets as CSV files
 ----------------------------------
 
 Data cleaning:
