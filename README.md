@@ -10,12 +10,12 @@ https://data.world/promptcloud/amazon-mobile-phone-reviews
 Columns: [Product, Brand, Price, **Rating Reviews, Review Votes(Helpful)**]
 
 
-Amazon Fashion(MID-SIZE 22,000):
-https://data.world/promptcloud/fashion-products-on-amazon-com
+Amazon Baby Reviews(Download the 5-core set):
+http://jmcauley.ucsd.edu/data/amazon/
 
-Columns: [uniqid, Product, Manufacturer, Price, In Stock, Review Numbers, Questions Answered, **Rating**, Category, OtherProducts, Description, Product Info, Product Description, Other Itmes, Questions and Amswers, **Customer_Reviews**, and Sellers ]
+Columns: 
 
-Download the Above Data Sets as CSV files
+Download the Above Data Sets files
 ----------------------------------
 
 Data cleaning:
@@ -24,7 +24,7 @@ Keep the Entries in Bold
 
 
 Teams:
-Fashion data set team - (Scott, Claire, Grace)
+Baby data set team - (Scott, Claire, Grace)
 
 Electronics data set team - (Conrad, Matt, Alan)
 
