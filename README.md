@@ -3,7 +3,7 @@ Data science analysis project on Amazon consumer reviews.
 
 ## Obtaining Data Sets
 We used two data sets in this project obtained from open-source database sites:
-1. A set on baby products obtained from http://jmcauley.ucsd.edu/data/amazon/ (161k)
+1. A set on 5-core baby products obtained from http://jmcauley.ucsd.edu/data/amazon/ (161k)
 2. A larger set on phone products from https://data.world/promptcloud/amazon-mobile-phone-reviews (400k+)
 
 ## Cleaning the Data Sets
