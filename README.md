@@ -22,9 +22,13 @@ The following commands were then run:
 
 ```
 tr -c -s '[:alpha:]' '[\n*]' < File_Name | \
+
 sort | \
+
 uniq -c | \
+
 sort -n -r -k 1,1 | \
+
 sed #q
 ```
 
