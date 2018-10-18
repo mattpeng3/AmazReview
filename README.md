@@ -19,6 +19,7 @@ We stripped the data of all categories except: *review text*, *review rating*, a
 **_The code is contained within each .ipynb file_**
 
 The following commands were then run:
+
 '''
 tr -c -s '[:alpha:]' '[\n*]' < File_Name | \
 sort | \
