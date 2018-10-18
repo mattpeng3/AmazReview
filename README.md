@@ -14,7 +14,7 @@ We stripped the data of all categories except: *review text*, *review rating*, a
 - We imported the downloaded json file into ipython via pandas
 - We then used panda functions to clean the data and remove certain data categories
 - Finally we split the review text into five categories(text associated with 1 star reviews, text assoiciated with 2 stars... etc.)
-- We created a csv file containg only the review text from each separated category i.e. one csv file for review text for one star ratings, one csv file for two star rating review text etc.
+- We created a csv file containg only the review text from each separated category (i.e. one csv file for review text for one star ratings, one csv file for two star rating review text etc).
 
 **_The code is contained within each .ipynb file_**
 
