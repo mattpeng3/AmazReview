@@ -1,6 +1,13 @@
 # Amazon Data Science Project
 Data science analysis project on Amazon consumer reviews.
 
+## About the Code and Files
+**reviews_baby:** Contains the stripped review text for each rating star i.e. all the data in baby_one.csv is from all the review text where the rating corresponding to that text was one star
+**reviews_phone:** Same thing as reviews_baby but for the phones data set
+**Analysis:** This contains two excel datasheets with all the review text organized corresponding to each review star
+**Scripts:** This folder contains all the code and scripts
+
+
 ## Obtaining Data Sets
 We used two data sets in this project obtained from open-source database sites:
 1. A set on 5-core baby products obtained from http://jmcauley.ucsd.edu/data/amazon/ (161k)
