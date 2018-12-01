@@ -1,4 +1,4 @@
-# **Creators: Matt Peng, Scott Xue, Conrad Chan, Grace Zhang, Alan Huh, Clair Chour**
+# **Creators: Matt Peng, Scott Xue, Conrad Chan, Grace Zhang, Alan Huh**
 
 # Amazon Data Science Project
 Data science analysis project on Amazon consumer reviews.
